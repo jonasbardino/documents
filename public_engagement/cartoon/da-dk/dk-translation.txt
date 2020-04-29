@@ -4,7 +4,7 @@ Tekst til den fulde udgave af striben
 == Panel 1 ==
 BESKYT LIV & FRIHED
 Hvordan apps til kontaktsporing kan slå både COVID-19 og Big Brother
-[Alternativt: kan få has på? spille et puds?]
+[Alternativt: kan få has på? spille et puds? - slå er perfekt!]
 
 == Panel 2 ==
 Et af problemerne med COVID-19:
@@ -12,11 +12,12 @@ Du kan allerede smitte ca. 2 dage ''før'' du opdager at du er smittet.
 
     virus udbredes stadig!
 
-Men det tager ca. 3 dage fra du smittes til du selv smitter. Så hvis vi får
-personer, som har været i kontakt med dig i karantæne, samme dag som du erfarer
-at du er smittet ...
+Men det tager ca. 3 dage fra du smittes til du selv smitter. Så hvis dem der har været i kontakt med dig, kommer i karantæne samme dag som du finder ud af
+at du er smittet...
+[finder ud af er mere talesprogsagtigt, synes jeg. Gætter på at du ikke vil genbruge opdage?]
 
-... kan vi holde os ét skridt foran og stoppe smittespredningen!
+... kan vi holde os et skridt foran og stoppe smittespredningen!
+['et' uden accent, som betoner ordet, det er 'foran' der er det vigtige]
 
 * hvad med smittede, som slet ikke får symptomer? Det viser sig at de ikke spiller
   en væsentlig rolle i spredning af COVID-19! mere i kilderne til sidst.
@@ -49,11 +50,11 @@ helt enkel måde!
 Lad os se hvordan det fungerer med hjælp fra Alice & Bob ... 
 
 == Panel 7 ==
-Alice henter sig en kontaktsporings-app!
+Alice henter en kontaktsporings-app!
 (& dens kildekode er endda offentligt tilgængelig, så enhver kode-kyndig kan
 kontrollere at den faktisk gør som her beskrevet ...)
 
-Hvert 5. minut ''siger'' Alices telefon tilfældigt sludder over Bluetooth til
+Hvert 5. minut ''siger'' Alices telefon noget tilfældigt sludder over Bluetooth til
 alle andre enheder i nærheden. Hver besked er unik og bruges kun én gang.
 
 * 5 minutter er bare et eksempel! Og rent teknisk er det "pseudo-tilfældigt", i
@@ -63,8 +64,9 @@ alle andre enheder i nærheden. Hver besked er unik og bruges kun én gang.
 Beskederne er tilfældige og bruger ikke GPS. De indeholder INGEN
 INFORMATION om Alices identitet, lokation eller noget sådant.
 
-Imens hendes telefon udsender tilfældige beskeder, ''lytter'' den også efter
+Mens hendes telefon udsender tilfældige beskeder, ''lytter'' den også efter
 beskeder fra telefoner i nærheden.
+[Måske er det bare mig, men jeg ville sige mens?]
 
 == Panel 9 ==
 For eksempel fra Bobs.
@@ -83,11 +85,12 @@ dage.
 
   Hvad jeg sagde     Hvad jeg hørte
 
-Igen: de tilfældige beskeder indeholder INGEN INFORMATION om Alice. Derfor
+Igen: De tilfældige beskeder indeholder INGEN INFORMATION om Alice. Derfor
 forbliver hendes privatliv skjult for Bob og omvendt! 
 
 * 14 dage er også bare et eksempel! Epidemiologer opdager måske senere at
-"smitteperioden" faktisk varer kortere eller længere.
+"smitteperioden" faktisk er kortere eller længere.
+[perioden kan være kortere eller længere eller vare i kortere eller længere tid]
 
 == Panel 11 ==
 Næste dag får Alice tør hoste og feber.
@@ -98,25 +101,27 @@ Det er en skidt dag for Alice.
 
 == Panel 12 ==
 Men hun skal ikke lide forgæves!
-Alice uploader sine "Hvad jeg sagde"-beskeder til en hospitalsdatabase v.h.a. en
+Alice uploader sine "Hvad jeg sagde"-beskeder til en hospitalsdatabase vha. en
 engangskode fra sin læge (koden er for at forhindre spam).
+[https://sproget.dk/lookup?SearchableText=vha.]
 
         Hvad jeg sagde
 
-Alice kan også ''skjule'' beskeder om tidspunkter hun vil holde for sig selv,
+Alice kan også ''skjule'' beskeder fra tidspunkter hun vil holde for sig selv,
 eksempelvis hjemmeaftener!
+['om' noget er ikke sludder, men noget der giver mening]
 
 == Panel 13 ==
 Databasen gemmer Alices sludder:
 
     Hvad COVID-19-ramte sagde
 
-Igen: de tilfældige beskeder afslører INGEN INFORMATION til hospitalet om hvor
+Igen: De tilfældige beskeder afslører INGEN INFORMATION til hospitalet om hvor
 Alice var, hvem hun var sammen med, hvad de lavede, eller ''hvor'' mange
 mennesker Alice mødte! De er meningsløse for hospitalet...
 
 * forskellige landes hospitaler kunne udveksle beskederne, men i og med de ikke
-  indeholder information krænkes stadig intet privatliv. 
+  indeholder information, krænkes stadig intet privatliv. 
 
 == Panel 14 ==
 ... men ikke for Bob!
@@ -129,15 +134,18 @@ Bobs telefon tjekker jævnligt hospitalets liste med tilfældige beskeder fra
 COVID-19-ramte, og ser om den har "hørt" nogen af dem før fra telefoner i nærheden
 de seneste 14 dage.
 
-(Beskedernes sludder giver INGEN ANDRE PERSONOPLYSNIGER til Bob.)
+(Beskedernes sludder giver INGEN PERSONOPLYSNIGER til Bob.)
+[ANDRE? Det siger originalen godt nok også, men det passer ikke rigtig med at der ikke sendes personlige data]
 
 * den ægte DP-3T-protokol er ENDNU mere sikker! Den bruger et såkaldt
   "cuckoo filter", så telefoner KUN bliver bekendt med de COVID-19 beskeder
   de selv hørte, uden at afsløre ALLE øvrige COVID-19 beskeder.
+[hvem ved hvad en protokol er i app-sammenhæng? Skal vi råde bod på det? - har forsøgt til sidst] 
 
 == Panel 15 ==
 Hvis den f.eks. hørte beskeder fra 6 eller flere COVID-19-ramte (6 x 5 min =
-30 min eksponeringstid) advarer telefonen Bob om at gå i hjemme-karantæne.
+30 min eksponeringstid) advarer telefonen Bob så han kan gå i hjemme-karantæne.
+[man advarer om at bjørnen kommer, ikke om at man skal gemme sig?]
 
 Dermed bryder Bob smittekæden - et skridt foran virussen!
 
@@ -156,7 +164,7 @@ Pas godt på jer selv.
 == Citations ==
 Kilder:
 
-Denne tegneserie er en grov opsummering af DP-3T protokollen, som den så ud den
+Denne tegneserie er en grov opsummering af DP-3T protokollen (en standard for privatlivssikret kontaktsporing), som den så ud den
 9. april 2020. Den virkelige løsning er mere kompleks og ''endnu mere'' sikker!
 Se materialet bag på:
 github.com/DP-3T/documents
