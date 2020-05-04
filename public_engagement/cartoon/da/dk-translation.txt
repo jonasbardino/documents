@@ -34,7 +34,7 @@ du opdager du er smittet ...
 ... kan vi holde os et skridt foran og stoppe
 smittespredningen!
 * hvad med smittede, som slet ikke får symptomer? Det viser sig at de ikke spiller
-en væsentlig rolle i spredning af COVID-19! mere om det i kilderne til sidst.
+en væsentlig rolle i spredning af COVID-19! Mere om det i kilderne til sidst.
 
 
 == Panel 3 ==
@@ -42,7 +42,8 @@ en væsentlig rolle i spredning af COVID-19! mere om det i kilderne til sidst.
 Idéen kaldes "kontaktsporing". Det er
 krumtappen i hvordan Sydkorea og Taiwan
 allerede aktivt inddæmmer COVID-19, og
-hvad vi også skulle gøre.
+hvad vi også kunne gøre.
+['skulle' virker moraliserende, synes jeg. Det tænkte jeg ikke lige på i første omgang. 'Kunne' er langt mere positivt]
 
 Vi behøver ikke engang at finde alle
 kontakterne! Det er nok at finde ca. 60% af
@@ -161,10 +162,11 @@ forhindre spam).
 
         HVAD JEG SAGDE
 
-Alice kan også skjule beskeder om
+Alice kan også skjule beskeder fra
 tidspunkter hun vil holde for sig selv,
 eksempelvis hjemmeaftener!
-
+ [ Alice can also hide messages _from_ times she wants to keep private]
+ [Jeg forstår i øvrigt ikke hvorfor hun skulle det - gør du?]
 
 == Panel 13 ==
 
@@ -195,10 +197,11 @@ indeholder information, krænkes stadig intet privatliv.
 
 Bobs telefon tjekker jævnligt hospitalets
 liste med tilfældige beskeder fra
-COVID-19-ramte, og ser om den har "hørt"
-nogen af dem før fra telefoner i nærheden
-de seneste 14 dage.
-
+COVID-19-ramte, og ser om den 
+de seneste 14 dage har "hørt"
+nogen af dem før fra telefoner i nærheden.
+ [Den er lidt kringlet denne sætning, så jeg har flere gange forsøgt om jeg kunne finde en enklere formulering, synes at denne hjælper?]
+ 
 (Beskedernes sludder afslører INGEN
 PERSONOPLYSNINGER til Bob.)
 * den ægte DP-3T-protokol er ENDNU mere sikker! Den bruger et såkaldt "cuckoo filter", så
@@ -245,7 +248,7 @@ Der findes også den lignende
 privatlivssikrende TCN Protocol:
 github.com/TCNCoalition/TCN
 
-og slutteligt er der studierne fra Oxford
+og endelig er der studierne fra Oxford
 Universitet, som viste at
 kontaktsporings-apps kunne inddæmme
 COVID-19... uden lang tids nedlukninger!
