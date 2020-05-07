@@ -19,7 +19,7 @@ Big Brother
 == Panel 2 ==
 
 Et problem med COVID-19:
-Du kan allerede smitte ca. 2 dage før du
+Du kan allerede smitte ca. 2 dage inden du
 opdager at du er smittet.
 
     Virus
@@ -42,12 +42,12 @@ en væsentlig rolle i spredning af COVID-19! mere om det i kilderne til sidst.
 Idéen kaldes "kontaktsporing". Det er
 krumtappen i hvordan Sydkorea og Taiwan
 allerede aktivt inddæmmer COVID-19, og
-hvad vi også skulle gøre.
+sådan kunne vi også gøre.
 
 Vi behøver ikke engang at finde alle
 kontakterne! Det er nok at finde ca. 60% af
 dem...
-* ca. 60%? igen, mere om det i kilderne til sidst!
+* ca. 60%? Igen, mere om det i kilderne til sidst!
 
 
 == Panel 4 ==
@@ -161,7 +161,7 @@ forhindre spam).
 
         HVAD JEG SAGDE
 
-Alice kan også skjule beskeder om
+Alice kan også skjule beskeder fra
 tidspunkter hun vil holde for sig selv,
 eksempelvis hjemmeaftener!
 
@@ -195,9 +195,8 @@ indeholder information, krænkes stadig intet privatliv.
 
 Bobs telefon tjekker jævnligt hospitalets
 liste med tilfældige beskeder fra
-COVID-19-ramte, og ser om den har "hørt"
-nogen af dem før fra telefoner i nærheden
-de seneste 14 dage.
+COVID-19-ramte, og ser om den de seneste 14 dage har "hørt"
+nogen af dem før fra telefoner i nærheden.
 
 (Beskedernes sludder afslører INGEN
 PERSONOPLYSNINGER til Bob.)
