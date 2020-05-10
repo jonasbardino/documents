@@ -8,10 +8,9 @@ ODT-filen med LibreOffice/OpenOffice/... og eksporteres som PDF.
 BESKYT
 LIV &
 FRIHED
-Sådan kan
-apps til
-kontaktsporing
-slå både
+Hvordan apps til 
+kontaktsporing 
+kan slå både 
 COVID-19 og
 Big Brother
 
@@ -66,10 +65,10 @@ vores privatliv?
 
 == Panel 5 ==
 
-Nej,
-nej
+Nej nej
+nej nej
 
-        NEJ
+        NEJ!
 
 
 == Panel 6 ==
@@ -204,7 +203,7 @@ PERSONOPLYSNINGER til Bob.)
 * den ægte DP-3T-protokol er ENDNU mere sikker! Den bruger et såkaldt "cuckoo filter", så
 telefoner KUN bliver bekendt med de COVID-19 beskeder de selv hørte, uden at afsløre
 ALLE øvrige COVID-19 beskeder.
-
+	
 
 == Panel 15 ==
 
@@ -238,11 +237,11 @@ Denne tegneserie er en grov opsummering
 af DP-3T protokollen, af den 9. april 2020.
 Den virkelige løsning er mere kompleks og
 endnu mere sikker!
-Se materialet bag på:
+Se materialet bag her:
 github.com/DP-3T/documents
 
 Der findes også den lignende
-privatlivssikrende TCN Protocol.
+privatlivsbeskyttende TCN Protocol.
 Den er beskrevet nærmere på:
 github.com/TCNCoalition/TCN
 
